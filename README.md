@@ -1,4 +1,4 @@
-Protótipo de Baixa Fidelidade - Redesign E-titulo
+Redesign E-titulo
 
 Feito por:
 
